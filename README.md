@@ -1,4 +1,4 @@
-# django_ci_cd1
+# django_ci_cd
 
 ## Youtube video link: https://www.youtube.com/watch?v=Sl94H5e7MPw
 
