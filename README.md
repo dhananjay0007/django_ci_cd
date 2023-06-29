@@ -1,4 +1,4 @@
-# django_ci_cd 123
+# django_ci_cd 
 
 ## A CI CD Project based on Jenkins Tool for Django Project (Python)
 This is a Django project that runs a single page web application. It allows one to eliminate the admin overhead that comes with testing your Django project in a production like environment. This will allow you to make changes and see the effects almost immediately.
