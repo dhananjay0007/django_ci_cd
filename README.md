@@ -1,7 +1,5 @@
 # django_ci_cd 123
 
-## Youtube video link: https://www.youtube.com/watch?v=Sl94H5e7MPw
-
 ## A CI CD Project based on Jenkins Tool for Django Project (Python)
 This is a Django project that runs a single page web application. It allows one to eliminate the admin overhead that comes with testing your Django project in a production like environment. This will allow you to make changes and see the effects almost immediately.
 
@@ -27,7 +25,7 @@ This is a Django project that runs a single page web application. It allows one 
 
 **1)** Fire up your favourite console & clone this repo somewhere:
 
-__`❍ git clonehttps://github.com/ishwar6/django_ci_cd.git`__
+__`❍ git clonehttps://github.com/dhananjay0007/django_ci_cd.git`__
 
 **2)** Enter this directory:
 
